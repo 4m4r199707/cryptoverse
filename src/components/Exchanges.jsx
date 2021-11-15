@@ -3,7 +3,8 @@ import React from 'react';
 const Exchanges = () => {
     return (
         <div>
-        Exchanges
+        Working in process...
+        page will be available SOON..!
         </div>
     );
 };
